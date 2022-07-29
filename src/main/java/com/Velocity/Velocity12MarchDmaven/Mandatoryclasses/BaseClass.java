@@ -21,5 +21,9 @@ public class BaseClass
 		//open application in browser
 		//driver.navigate().to("");
 		driver.get("https://www.flipkart.com/");
+		
+		//open application in browser
+		//driver.navigate().to("");
+		driver.get("https://www.flipkart.com/");
 	}
 }
